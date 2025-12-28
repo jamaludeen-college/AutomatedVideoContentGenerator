@@ -46,8 +46,8 @@ Before running the project, make sure you have:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Text-To-Video-AI.git](https://github.com/YOUR_USERNAME/Text-To-Video-AI.git)
-    cd Text-To-Video-AI
+    git clone [https://github.com/jamaludeen-college/AutomatedVideoContentGenerator.git]
+    cd Automated VideoContent Generator
     ```
 
 2.  **Create a Virtual Environment (Recommended)**
@@ -73,8 +73,6 @@ Before running the project, make sure you have:
     ```
 
 ---
-
-## 🏃‍♂️ Usage (Epdi Run panradhu?)
 
 You have two ways to run this project:
 
